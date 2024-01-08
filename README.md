@@ -1,7 +1,7 @@
 # GemCrush
 Jogo baseado no funcionamento dos jogos da franquia Candy Crush Saga. Feito usando a lib pygame.
 
-O projeto foi desenvolvido como avaliação para os alunos do curso de Mentoria de Algoritmos e Programação em Python, da Universidade Estadual de Feira de Santana (UEFS).
+O projeto foi desenvolvido como avaliação para os alunos do curso de Mentoria de Algoritmos e Programação em Python (o qual participei como mentor), da Universidade Estadual de Feira de Santana (UEFS). Objetivou-se nesse projeto por em prática conceitos de manipulação de matrizes, lógica para programação e uma leve introdução a orientação a objetos.
 
 Cumpre os seguintes requisitos:
 
