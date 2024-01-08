@@ -24,3 +24,6 @@ Para executar em seu dispositivo é necessário:
 
 - ter o Python instalado: (https://www.python.org/downloads/);
 - instalar a biblioteca Pygame, executando no terminal: `pip install pygame`
+- Executar o arquivo "game.py"
+
+Divirta-se!
