@@ -19,3 +19,8 @@ Cumpre os seguintes requisitos:
 momento.
 
 ● O jogo deve dar dicas aos jogadores, se solicitado, quando houverem possíveis cadeias de gemas a serem formadas.
+
+Para executar em seu dispositivo é necessário:
+
+- ter o Python instalado: (https://www.python.org/downloads/);
+- instalar a biblioteca Pygame, executando no terminal: `pip install pygame`
